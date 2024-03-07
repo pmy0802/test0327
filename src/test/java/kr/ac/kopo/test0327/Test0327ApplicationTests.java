@@ -8,6 +8,8 @@ class Test0327ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("★★★ Call method contextLoads()");
+
 	}
 
 }
